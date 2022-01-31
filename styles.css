@@ -1,3 +1,4 @@
+/*########## Basic designs ##########*/
 .title-icon {
     font-size: 22px;
     font-weight: bold;
@@ -11,6 +12,23 @@ body {
     color: #00ABAE;
     font-weight: bold;
 }
+
+p {
+    font-size: 15px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black {
+    color: #000 !important;
+    font-size: 18px;
+}
+
+/*########## About section ##########*/
 
 #about {
     text-align: center;
@@ -61,3 +79,16 @@ body {
 }
 
 
+/*########## Project section ##########*/
+
+#projects {
+    margin: 60px auto; 
+}
+
+#projects h2 {
+    text-align: center;
+}
+
+#projects .card-title {
+    font-weight: bold;
+}
