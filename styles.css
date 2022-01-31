@@ -1,12 +1,63 @@
+.title-icon {
+    font-size: 22px;
+    font-weight: bold;
+}
+
 body {
     font-family: monospace, sans-serif;
 }
 
 .font-primary {
     color: #00ABAE;
-}
-
-.title-icon {
-    font-size: 22px;
     font-weight: bold;
 }
+
+#about {
+    text-align: center;
+    margin: 60px auto;
+    max-width: 550px;
+    color: black;
+}
+
+#about img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+#about .name {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+#about .vocation {
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(87, 87, 87);
+    margin-bottom: 10px;
+}
+
+#about .strengths {
+    color: #25c1c4;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#about .email {
+    color: rgb(87, 87, 87);
+    font-size: 20px;
+}
+
+#about .socials {
+    align-content: center;
+    margin-top: 15px;
+    font-size: 35px;
+    
+}
+
+#about .socials a {
+    color: #000;
+}
+
+
