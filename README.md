@@ -6,5 +6,18 @@ I will be using this to showcase my projects
 
 [Live Heroku Deployment] (https://portfolio-estabrok.herokuapp.com/) 
 
-[Screenshot] Portfolio Page [Image] (https://i.imgur.com/AsHc9v2.png)
+[Screenshot] Portfolio Page (!https://i.imgur.com/AsHc9v2.png)
+
+## Technologies used
+
+*HTML
+*CSS
+
+## Installation 
+
+No need to download any software, just open index.html
+
+## How to use
+
+Use this to build your own portfolio template
 
