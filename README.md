@@ -6,7 +6,7 @@ I will be using this to showcase my projects
 
 [Live Heroku Deployment] (https://portfolio-estabrok.herokuapp.com/) 
 
-[Screenshot] ![Image] Portfolio Page (!https://i.imgur.com/AsHc9v2.png)
+![image] (https://i.imgur.com/AsHc9v2.png)
 
 ## Technologies used
 
