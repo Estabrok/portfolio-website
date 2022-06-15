@@ -90,13 +90,17 @@ a.font-black {
 
 #projects {
     margin: 60px auto; 
-    scroll-margin-top: 100px; 
+    width: 80%;
 }
 
 #projects h2 {
     text-align: center;
 }
-
+#projects .card video {
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
 #projects .card-title {
     font-weight: bold;
 }
